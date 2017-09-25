@@ -90,3 +90,22 @@ h1, h2{
   text-decoration: underline;
   color: white;
 }
+/* Hero */
+.hero{
+  background-image: url('images/hero.jpg');
+  height: 480px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.hero-heading,
+.subheading{
+  font-family: 'Roboto Condensed', sans-serif;
+  color: white;
+  text-align: center;
+}
+.hero-heading{
+  font-family: 'Roboto Condensed', sans-serif
+}
+.subheading{
+  
+}
