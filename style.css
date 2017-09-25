@@ -50,5 +50,8 @@ h1, h2{
   font-family: 'Roboto Condensed', sans-serif;
 }
 .mono{
-
+  font-family: 'Roboto Mono', monospace;
+}
+.copy{
+  font-family: 'Georgia', serif;
 }
