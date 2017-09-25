@@ -68,11 +68,13 @@ h1, h2{
 .site-header{
   clear: both;
   content:"";
-  height: 0
 }
 .header-nav{
   display: inline;
   float: right;
+}
+.nav-links span{
+  color: #14e9b6;
 }
 .nav-links li{
   display: inline-block;
