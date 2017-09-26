@@ -167,6 +167,10 @@ h1, h2{
 /*section*/
 .thirds{
   margin-top: 5px;
+
+}
+.schedule{
+  vertical-align: top;
 }
 /*aside*/
 .sidebar{
@@ -190,4 +194,36 @@ h1, h2{
 }
 .sidebar p.mono{
   margin: 20px 0 25px;
+}
+
+/*schedule*/
+.schedule{
+  display: inline-block;
+  width: 50%;
+  padding: 90px 70px 80px;
+}
+.schedule .small-header{
+  margin: 40px 0 15px;
+}
+.small-header{
+  font-size: 21px;
+}
+.links{
+  padding: 30px;
+  text-align: center;
+  -webkit-transform: none;
+  transition: transform 1s;
+}
+.links:hover{
+  -webkit-transform: rotate(360deg);
+}
+.link{
+  padding: 40px;
+  color: black;
+  transition: color 1s;
+}
+.link:hover{
+  color: rgba(10,216,227,1);
+  -webkit-transform: rotate(360deg);
+
 }
