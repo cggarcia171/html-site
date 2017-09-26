@@ -227,3 +227,18 @@ h1, h2{
   -webkit-transform: rotate(360deg);
 
 }
+/* students */
+.current-students .mono{
+  width: 40%;
+}
+.picflex{
+  display: flex;
+  flex-wrap: wrap;
+
+}
+.picflex img{
+  display: flex;
+  margin: 5px;
+  width: 220px;
+  height: 220px;
+}
