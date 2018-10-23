@@ -1,2 +1,2 @@
 # html-site
-in class project
+My very first programming project using only html. 
